@@ -1,0 +1,20 @@
+{
+    "name": "ina219",
+    "version": "1.0.0",
+    "description": "INA219 on UPS HAT (B)",
+    "type": "module",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "INA219",
+        "UPS",
+        "raspberry Pi"
+    ],
+    "author": "Carlos Anjos",
+    "license": "ISC",
+    "dependencies": {
+        "i2c-bus": "^5.2.2"
+    }
+}
