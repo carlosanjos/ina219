@@ -1,6 +1,6 @@
 {
     "name": "ina219",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "INA219 on UPS HAT (B)",
     "type": "module",
     "main": "index.js",
@@ -15,6 +15,6 @@
     "author": "Carlos Anjos",
     "license": "ISC",
     "dependencies": {
-        "i2c-bus": "^5.2.2"
+        "i2c-bus": "^5.2.3"
     }
 }
